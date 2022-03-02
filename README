@@ -4,15 +4,15 @@ ex5_inpr.ipynb - colab notebook with the code.
 ex5_answers.pdf - the results.
 beni_original.jpeg - the original image of Beni Gandz after align.
 lapid_original.jpeg - the original image of Yair Lapid after align.
-blur_beni - Beni Gandz after blurring and restoration.
-blur_lapid- Yair Lapid after blurring and restoration.
-blur_yann - Yann after restoration.
-beni_grayscale - Beni Gandz after turning to grayscale image and restoration.
-lapid_grayscale - Yair Lapid after turning to grayscale image and restoration.
-alan_grayscale - Alan after restoration.
-beni_inpaint - Beni Gandz after inpainting and restoration.
-lapid_inpaint - Yair Lapid after inpainting and restoration.
-fei_fei_inpaint - Fei Fei after restoration.   
+blur_beni.png - Beni Gandz after blurring and restoration.
+blur_lapid.png- Yair Lapid after blurring and restoration.
+blur_yann.png - Yann after restoration.
+beni_grayscale.png - Beni Gandz after turning to grayscale image and restoration.
+lapid_grayscale.png - Yair Lapid after turning to grayscale image and restoration.
+alan_grayscale.png - Alan after restoration.
+beni_inpaint.png - Beni Gandz after inpainting and restoration.
+lapid_inpaint.png - Yair Lapid after inpainting and restoration.
+fei_fei_inpaint.png - Fei Fei after restoration.   
  
  
  
