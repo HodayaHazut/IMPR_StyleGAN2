@@ -1,20 +1,18 @@
 hodaya749
-The files in the ZIP:
-	ex5_inpr.ipynb - colab notebook with the code.
+The files:
+ex5_inpr.ipynb - colab notebook with the code.
 ex5_answers.pdf - the results.
 beni_original.jpeg - the original image of Beni Gandz after align.
 lapid_original.jpeg - the original image of Yair Lapid after align.
-
-folders:
-blur_beni - contains the npz file and the images of Beni Gandz after blurring and restoration.
-blur_lapid- contains the npz file and the images of Yair Lapid after blurring and restoration.
-blur_yann - contains the npz file and the image of Yann after restoration.
-beni_grayscale - contains the npz file and the images of Beni Gandz after turning to grayscale image and restoration.
-lapid_grayscale - contains the npz file and the images of Yair Lapid after turning to grayscale image and restoration.
-alan_grayscale - contains the npz file and the images of Alan after restoration.
-beni_inpaint - contains the npz file and the images of Beni Gandz after inpainting and restoration.
-lapid_inpaint - contains the npz file and the images of Yair Lapid after inpainting and restoration.
-fei_fei_inpaint - contains the npz file and the images of Fei Fei after restoration.   
+blur_beni - Beni Gandz after blurring and restoration.
+blur_lapid- Yair Lapid after blurring and restoration.
+blur_yann - Yann after restoration.
+beni_grayscale - Beni Gandz after turning to grayscale image and restoration.
+lapid_grayscale - Yair Lapid after turning to grayscale image and restoration.
+alan_grayscale - Alan after restoration.
+beni_inpaint - Beni Gandz after inpainting and restoration.
+lapid_inpaint - Yair Lapid after inpainting and restoration.
+fei_fei_inpaint - Fei Fei after restoration.   
  
  
  
